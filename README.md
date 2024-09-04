@@ -1,6 +1,6 @@
 <H1>About Me </H1></br>
 I am a Computational Biologist with extensive experience in the field of Cancer Genomics and Clinical Data Interpretation and Analysis.<br>
-I have worked in the field of healthcare and patient data analysis at two of the highest rated hospitals in the country : Memorial Sloan Kettering Cancer Centre and Mayo Clinic.I am currenly working as a machine learning researcher at Rutgers University and developing novel algorithms for clinical data analysis.
+I have worked in the field of healthcare and patient data analysis at two of the highest rated hospitals in the country : <a href ="https://www.mskcc.org/">Memorial Sloan Kettering Cancer Centre </a> (MSKCC) and <a href = "https://www.mayoclinic.org/"> Mayo Clinic </a>.I am currenly working as a machine learning researcher at <a href = "https://www.rutgers.edu/">Rutgers University </a> and developing novel algorithms for clinical data analysis.
 <H2>Ongoing Projects</H2><br>
 Development of Multiple Primary Cancers (MPCs) in association with Lung Cancer</br>
 Development of Semi-Supervised Machine Learning algorithms for medical image analysis<br>
@@ -13,7 +13,7 @@ Development of Semi-Supervised Machine Learning algorithms for medical image ana
 
 <H2>Teaching</H2>
 Assistant to General Biology Course - Rutgers University <br>
-Bioinformatics Mentor to Molecular Pathology Fellowship Class (2020-2024)- Awarded Staff Inaugral Teaching Award 2021
+Bioinformatics Mentor to Molecular Pathology Fellowship Class (2020-2024)- Awarded Staff Inaugral Teaching Award 2021 - MSKCC
 
 <H2>Book Author </H2><br>
 Co-authored book chapter on Next Generation Sequencing Data Analysis of Pocket Oncology 3rd Edition.
